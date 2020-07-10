@@ -1,0 +1,3 @@
+Database location:
+
+assets/futbolshop.sql
